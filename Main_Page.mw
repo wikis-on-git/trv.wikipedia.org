@@ -1,0 +1,67 @@
+<!-- 頂欄開始 -->
+
+
+<div style="background:#ffffff; position:relative; top:-115px; z-index:1; margin-bottom:-100px; margin-left:-12px; margin-right:-13px; padding-top:10px; padding-right:13px; padding-left:13px;"><div style="margin:10px 0; border:0; -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35); -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35); box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35); -moz-border-radius: 7px; -webkit-border-radius: 7px; border-radius: 7px; background:white; width:100%; overflow:hidden; background: transparent; background: -moz-linear-gradient(top, #FCFCFC 0%, #F5F5F5 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FCFCFC), color-stop(100%,#F5F5F5)); background: -webkit-linear-gradient(top, #FCFCFC 0%,#F5F5F5 100%); background: -o-linear-gradient(top, #FCFCFC 0%,#F5F5F5 100%); background: -ms-linear-gradient(top, #FCFCFC 0%,#F5F5F5 100%); background: linear-gradient(top, #FCFCFC 0%,#F5F5F5 100%);"><div style="float:left; margin-top:-50px; margin-left:-50px;">[[Patas bntasan:Wikipedia-logo-v2-200px-transparent.png|left|200px|link=]]
+<div style="width: 80%; margin-top: 75px; position:absolute;right: 0;">
+<table cellpadding="0" style="background:transparent; text-shadow: white 0px 1px 0px;" cellspacing="0" border="0" width="100%"><tr>
+<td valign="middle" align="center">
+<div style="font-size: 300%; text-align: center; line-height: 100%; color: #17b;  clear: both;">'''[[Seediq Wikipediya|<span style="color: #17b;">Seediq Wikipidiya</span>]]'''</div>
+</td>
+<td width="340px" style="border-left:1px solid #DDD;" valign="middle" align="center" rowspan="2">
+{| style="width:100%; background:transparent;"
+|style="width:7%; font-size:95%; vertical-align:top;"|
+<div class="center">'''[[Seediq]] Wikipidiya'''<br>with '''{{NUMBEROFARTICLES}}'''</span> articles</div></div>
+{| cellspacing="5" style="font-size:90%; text-align:center;" align=center
+|}
+|}
+</td>
+</tr></table>
+</div>
+</div>
+</div>
+<!-- 頂欄結束 -->
+
+[[Patas bntasan:Mona Rudao and Seediq tribal leaders.jpg|thumb|Mona Rudo ma tholang alang Seediq]]
+[[Patas bntasan:Mokka and their house.jpg|thumb|Spsapah nSeediq]]
+<big>本處是試驗'''賽德克語和太魯閣語'''的維基百科。歡迎具備族語能力者來貢獻撰寫、修改[[:zh:賽德克語|Kari Seediq]]、[[:zh:太魯閣語|Kari Truku]]的條目。俟條目量達到了維基的要求標準，賽德克語和太魯閣語維基百科就會獲准成立，全部的文章就會轉到正式的維基百科。試驗中的維基，文章的標題必須用<nowiki>[[文章標題]]</nowiki>的樣式。比如「Seediq」該篇文章的標題就是[[[[Seediq]]]]。(正式的Wikipidia的標題當然是<nowiki>[[Seediq]]</nowiki>.)
+<div class="center">我們已經有{{NUMBEROFARTICLES}}篇文章。</big>
+
+----
+This series of pages is for a test-wikipedia in the [[:en:Seediq language|Seediq language]] (Seediq). 
+Your Seediq input here will be appreciated. The request for the creation of the Seediq Wikipidia will be approved if and when there is sufficient article content. When it is approved, all content here would be moved to the actual Wikipedia.
+
+Because this is a test-wikipedia all articles here must begin with the format <nowiki>[[Name of article]]</nowiki>. For example, an article about Seediq should be titled here as [[[[Seediq]]]]. (Of course in the actual wikipedia, the article would be titled as <nowiki>[[Seediq]]</nowiki>.)
+
+''Seediq speakers are encouraged to create as many top-quality articles as possible.''
+<br>There are currently {{NUMBEROFARTICLES}} articles.<br />
+
+----
+Wikipidiya kari Seediq ka hini. Netun su mkela mprengo ma matis kari Seediq, ptsani kari hini.
+
+Niqan ta {{NUMBEROFARTICLES}}pnatis.
+
+----
+<inputbox>
+ type      = create
+ width     = 90
+ bgcolor   = #ffffff
+ preload   = Template:Standard content for new page
+ editintro = Template:Instructions
+ prefix   =
+</inputbox>
+<div class="center">[[Kingal nanaq:PrefixIndex/Wp/trv|Wikipedia Kari Seediq  的所有頁面]]
+[[Kingal nanaq:PrefixIndex/Category:Wp/trv|所有分類]]<br />[[Kingal nanaq:PrefixIndex/Template:Wp/trv|所有模板]]<br />
+[[:Category:Tgdaya|Seediq Tgdaya(賽德克族德固達雅語)]]<br />
+[[:Category:Toda|Sediq Toda(賽德克族都達語)]]<br />
+[[:Category:Truku|Seejiq Truku(賽德克族德路固語)]]<br />
+[[:Category:Truku|Truku(太魯閣族太魯閣語)]]</div>
+[[Snakun:Truku]]
+[[de:]]
+[[en:]]
+[[es:]]
+[[fr:]]
+[[ja:]]
+[[ka:]]
+[[nl:]]
+[[ru:]]
+[[zh:]]
