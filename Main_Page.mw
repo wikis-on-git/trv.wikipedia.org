@@ -10,7 +10,7 @@
 <td width="340px" style="border-left:1px solid #DDD;" valign="middle" align="center" rowspan="2">
 {| style="width:100%; background:transparent;"
 |style="width:7%; font-size:95%; vertical-align:top;"|
-<div class="center">'''[[Seediq]] Wikipidiya'''<br>with '''{{NUMBEROFARTICLES}}'''</span> articles</div></div>
+<div class="center">'''[[Seediq]] Wikipidiya'''<br>with '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]'''</span> articles</div></div>
 {| cellspacing="5" style="font-size:90%; text-align:center;" align=center
 |}
 |}
@@ -24,7 +24,7 @@
 [[Patas bntasan:Mona Rudao and Seediq tribal leaders.jpg|thumb|[[Mona Rudaw|Mona Rudo]] ma tholang alang Seediq]]
 [[Patas bntasan:Mokka and their house.jpg|thumb|Spsapah nSeediq]]
 <big>本處是試驗'''賽德克語和太魯閣語'''的維基百科。歡迎具備族語能力者來貢獻撰寫、修改[[:zh:賽德克語|Kari Seediq]]、[[:zh:太魯閣語|Kari Truku]]的條目。俟條目量達到了維基的要求標準，賽德克語和太魯閣語維基百科就會獲准成立，全部的文章就會轉到正式的維基百科。試驗中的維基，文章的標題必須用<nowiki>[[文章標題]]</nowiki>的樣式。比如「Seediq」該篇文章的標題就是[[[[Seediq]]]]。(正式的Wikipidia的標題當然是<nowiki>[[Seediq]]</nowiki>.)
-<div class="center">我們已經有{{NUMBEROFARTICLES}}篇文章。</big>
+<div class="center">我們已經有[[Special:Statistics|{{NUMBEROFARTICLES}}]]篇文章。</big>
 
 ----
 This series of pages is for a test-wikipedia in the [[:en:Seediq language|Seediq language]] (Seediq). 
@@ -33,12 +33,12 @@ Your Seediq input here will be appreciated. The request for the creation of the 
 Because this is a test-wikipedia all articles here must begin with the format <nowiki>[[Name of article]]</nowiki>. For example, an article about Seediq should be titled here as [[[[Seediq]]]]. (Of course in the actual wikipedia, the article would be titled as <nowiki>[[Seediq]]</nowiki>.)
 
 ''Seediq speakers are encouraged to create as many top-quality articles as possible.''
-<br>There are currently {{NUMBEROFARTICLES}} articles.<br />
+<br>There are currently [[Special:Statistics|{{NUMBEROFARTICLES}}]] articles.<br />
 
 ----
 Wikipidiya kari Seediq ka hini. Netun su mkela mprengo ma matis kari Seediq, ptsani kari hini.
 
-Niqan ta {{NUMBEROFARTICLES}}pnatis.
+Niqan ta [[Special:Statistics|{{NUMBEROFARTICLES}}]] pnatis.
 
 ----
 <inputbox>
